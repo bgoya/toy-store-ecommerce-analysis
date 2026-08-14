@@ -38,8 +38,9 @@ The project may evolve as I explore the dataset and identify new questions worth
 
 ### Source
 
-**Dataset:** Toy Store E-Commerce Database
-**Source:** Maven Analytics
+**Dataset:** [Toy Store E-Commerce Database](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database)
+
+**Source:** [Maven Analytics](https://mavenanalytics.io/)
 
 The dataset contains six related tables:
 
