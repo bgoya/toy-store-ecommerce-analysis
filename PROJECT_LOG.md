@@ -68,19 +68,7 @@ This distinction will be important when joining tables and calculating metrics, 
 
 The main relationships identified so far are:
 
-```text
-website_sessions
-       │
-       ├──────── website_pageviews
-       │
-       └──────── orders
-                    │
-                    └──── order_items
-                              │
-                              ├──── products
-                              │
-                              └──── order_item_refunds
-```
+![Data Model](assets/data_model.png)
 
 The `user_id` field also connects sessions and orders to the same user, although the dataset does not contain a separate `users` table.
 
