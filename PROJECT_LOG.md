@@ -10,7 +10,7 @@ This document records the development of the project, from the initial explorati
 
 I wanted to put my recently acquired SQL knowledge into practice through a project based on a realistic dataset rather than isolated exercises.
 
-I chose the **Toy Store E-Commerce Database** from Maven Analytics because it contains multiple related tables covering website sessions, pageviews, orders, products, and refunds. This makes it suitable for practicing SQL in a context similar to an e-commerce data analysis problem.
+I chose the [**Toy Store E-Commerce Database** from Maven Analytics](https://mavenanalytics.io/data-playground/toy-store-e-commerce-database) because it contains multiple related tables covering website sessions, pageviews, orders, products, and refunds. This makes it suitable for practicing SQL in a context similar to an e-commerce data analysis problem.
 
 ### Initial Objective
 
